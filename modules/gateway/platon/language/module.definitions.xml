@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions version="1.0">
+ <group name="platon">
+  <string name="client_key"><![CDATA[Client Key]]></string>
+  <string name="client_password"><![CDATA[Client Password]]></string>
+  <string name="module_description"><![CDATA[&#8220;Start selling in minutes&#8221;]]></string>
+  <string name="module_title"><![CDATA[platon]]></string>
+ </group>
+</definitions>
